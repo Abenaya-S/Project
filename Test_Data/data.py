@@ -1,0 +1,20 @@
+#Data.py
+
+class Employee_Data:
+  url = 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'
+  username = 'Admin'
+  password1 = 'admin123'
+  password2 = 'admin12'
+  firstName = 'Abenaya'
+  middleName = ''
+  lastName = 'S'
+  Employeeid='0303'
+  Nickname='Abe'
+  Dateofbirth='1996-08-19'
+  Employeename='Abenaya S'
+  otherid='909'
+  Drivinglicensenumber='TN 64509345636'
+  LicenseExpiryDate='2025-2-05'
+  SSNNumber='788756'
+  SINNumber='765457'
+  MilitaryServiceBox='No'
